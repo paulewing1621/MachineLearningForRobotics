@@ -1,5 +1,4 @@
-# Final Project
-
+# Machine Learning for Robotics
 
 ### 1. `metal_detection_marker` — Treasure Detection
 
